@@ -1,0 +1,125 @@
+*{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+/*FORM*/
+.form__editar{
+    background: #626161;
+    margin: 8em auto 5em auto;
+    width: 90%;
+    max-width: 400px;
+    padding: .5em 3em 1.5em 3em;
+    border-radius: 5px;
+}
+.form__password{
+    background: #626161;
+    margin: 8em auto 5em auto;
+    width: 90%;
+    max-width: 400px;
+    padding: .5em 3em 1.5em 3em;
+    border-radius: 5px;
+}
+.form__title{
+    font-size: 2rem;
+    margin: 5px;
+    margin-top: 1em;
+    color: #fff;
+}
+.form__container{
+    margin-top: 1em;
+    display: grid;
+    gap: 1em;
+}
+.form__group{
+    position: relative;
+}
+.form__input{
+    width: 97.33333%;
+    background: #FFF;
+    font-size: 20px;
+    border: none;
+    padding: .6em .3em;
+    outline: none;
+    border-radius: 3px;
+    color: black;
+    font-weight: bold;
+    border-radius: 8px;
+}
+.form__input2{
+    width: 100%;
+    font-size: 20px;
+    border: none;
+    padding: .6em .3em;
+    outline: none;
+    border-radius: 3px;
+    color: black;
+    font-weight: bold;
+    border-radius: 8px;
+
+}
+.form__options{
+    background: #FFF; 
+}
+::placeholder{
+    color: #616262;
+}
+.form__submit{
+    background: #ED7D31;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+    padding: 10px;
+}
+.form__submit:disabled{
+    background: rgba(237, 125, 49, 0.70);
+    color: rgba(256, 256, 256, 0.70);
+}
+.form__registro a, .form__registro p{
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+@media (max-width:500px) {
+    .form__editar{
+        width: auto;
+        padding: .5em 1em;
+        border-radius: 4px;
+        margin: 5em auto 2em auto;
+
+    }
+    .form__password{
+        width: auto;
+        padding: .5em 1em;
+        border-radius: 4px;
+        margin: 5em auto 2em auto;
+
+    }
+    .form__title{
+        font-size: 1.8rem;
+        margin-top: 0;
+        padding-top:10px;
+        width: 75%;
+    }
+    .form__submit{
+        background: #ED7D31;
+        color: #fff;
+        font-size: 1.5rem;
+        font-weight: bold;
+        border-radius: 8px;
+        border: none;
+        padding: 10px;
+        width: auto;
+    }
+    .form__input{
+        width: 96.33333%;
+    }
+    .form__input2{
+        width: 100%;
+    }
+    .form__container{
+        width: 100%;
+    }
+}
