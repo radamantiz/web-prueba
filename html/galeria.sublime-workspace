@@ -1,0 +1,343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text1"
+			],
+			[
+				"img",
+				"IMG_1647-min.JPG"
+			],
+			[
+				"IMG_",
+				"IMG_1009-min.JPG"
+			],
+			[
+				"IMG_0",
+				"IMG_0997-min.JPG"
+			],
+			[
+				"im",
+				"IMG_0960-min.JPG"
+			],
+			[
+				"d",
+				"Diciembre23_2020/"
+			],
+			[
+				"i",
+				"IMG_9169-min.JPG"
+			],
+			[
+				"no",
+				"Noviembre26_2020/"
+			],
+			[
+				"su",
+				"subtitle-page"
+			],
+			[
+				"f",
+				"figcaption\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"c",
+				"content\tAttr"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"marker-end\tproperty"
+			],
+			[
+				"alg",
+				"align-items\tproperty"
+			],
+			[
+				"border",
+				"border-image\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"r",
+				"right\tfloat"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/10 Spring Creators/Documents/ADSI/PROYECTO INNOVACIÓN/Diseño/HUB/css/indexcopia2.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/PROYECTO INNOVACIÓN/Diseño/HUB/indexcopia2.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/PROYECTO INNOVACIÓN/Diseño/HUB/html/galeria3.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/PROYECTO INNOVACIÓN/Diseño/HUB/css/galeria3.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/PROYECTO INNOVACIÓN/Diseño/HUB/index.html",
+		"/C/Users/10 Spring Creators/Documents/Nueva carpeta/AutoInstruccion/HTML - CSS - JAVASCRIPT/PRUEBAS/Prueba1/index.html",
+		"/C/Users/10 Spring Creators/Documents/Nueva carpeta/AutoInstruccion/HTML - CSS - JAVASCRIPT/PRUEBAS/prueba1.html",
+		"/C/Users/10 Spring Creators/Documents/My Web Sites/prueba1.html",
+		"/C/Users/10 Spring Creators/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/C/Users/10 Spring Creators/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/10 Spring Creators/Documents/ADSI/PROYECTO/Diseño/SICVOS v1_6_1/si/html/1_mod_Usuario/registrarse.html",
+		"/C/Users/10 Spring Creators/Desktop/Visual Studio Code.lnk",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/DiseñoWeb1/Ejercicio/index.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Access/Guia/Formularios e informes/Ejercicio_1/onsecionario.accdb",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Tarea2/css/styles5.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Tarea2/ejercicio 5.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Tarea2/ejercicio 4.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Tarea2/css/styles4.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Tarea2/css/styles3.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Tarea2/css/styles2.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Tarea2/ejercicio 1.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Tarea2/css/Styles1.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Tarea2/Ejercicio1.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles4.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 4.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles18.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 18.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 17.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles17.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 16.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles16.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 15.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles15.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 14.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles14.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles13.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles12.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles11.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 11.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles10.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 10.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 9.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles9.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles8.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 8.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles7.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 7.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles6.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 5.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles5.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 3.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles3.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles2.css",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 2.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/ejercicio 1.html",
+		"/C/Users/10 Spring Creators/Documents/ADSI/Fase2/Diseño/css/styles1.css"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "galeria.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
